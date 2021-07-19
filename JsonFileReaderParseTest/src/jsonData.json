@@ -1,0 +1,14 @@
+{
+	"title":"testJsonData",
+	"test1":{
+		"title":"test1Title",
+		"testidx":14967,
+		"testbalance":8723239921211,
+		"testOnOff":false
+	},
+	"test2":{
+		"title":"test2Title",
+		"testidx":23115779
+	},
+	"testArray":[200,300,400,150]
+}
