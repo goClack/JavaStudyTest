@@ -1,0 +1,20 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.igemoya.javastudy</groupId>
+  <artifactId>java_imagej_test</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>java_imagej_test</name>
+  <repositories>
+    <repository>
+        <id>scijava.public</id>
+        <url>https://maven.scijava.org/content/groups/public</url>
+    </repository>
+</repositories>
+  <dependencies>
+  	<dependency>
+	    <groupId>net.imagej</groupId>
+	    <artifactId>ij</artifactId>
+	    <version>1.53j</version>
+	</dependency>
+  </dependencies>
+</project>
